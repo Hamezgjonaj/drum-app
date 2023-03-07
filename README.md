@@ -1,6 +1,7 @@
-# drum-app
-production
+# Production Environment
 https://drum-app.pages.dev/
+
+# drum-app
 ## Project setup
 ```
 npm install
